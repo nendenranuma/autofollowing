@@ -1,11 +1,16 @@
-# Auto Following ig
+# Bot Auto Following Instagram
 
 
 ____________________________
-Bot Auto Following Instagram
+Cara penggunaan: 
+1. Install python 3.6
+2. pip install tqdm
+3. pip install instabot
+4. Run autofollowingig.py on cmd
+5. Have fun gaes!
 ____________________________
 Do with your own risk
-__________________________
+____________________________
 Gunakan secara bijak
-__________________________
+____________________________
    Indonesia language
