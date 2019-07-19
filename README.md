@@ -4,9 +4,8 @@
 ____________________________
 Bot Auto Following Instagram
 ____________________________
-==========================
+Do with your own risk
 __________________________
-//Do with your own risk//
-//Gunakan secara bijak//
+Gunakan secara bijak
 __________________________
    Indonesia language
