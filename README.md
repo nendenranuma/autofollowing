@@ -3,7 +3,7 @@
 
 ____________________________
 Cara penggunaan: 
-1. Install python 3.6
+1. Install python 3
 2. pip install tqdm
 3. pip install instabot
 4. Run autofollowingig.py on cmd
